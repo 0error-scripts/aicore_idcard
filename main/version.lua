@@ -1,1 +1,1 @@
-lib.versionCheck('0error-scripts/aicore_idcard')
+lib.versionCheck('aicore-fivem/aicore_idcard')
